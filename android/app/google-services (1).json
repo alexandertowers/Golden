@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691703207991",
+    "firebase_url": "https://golden-a7e38.firebaseio.com",
+    "project_id": "golden-a7e38",
+    "storage_bucket": "golden-a7e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691703207991:android:779f79a8ef3f7fb7ff87b2",
+        "android_client_info": {
+          "package_name": "golden.yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691703207991-88fdaouh0bfhq64hjotsl79u5dfhkl6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkviU7ebXpzZrcVCAkBWmC0jyIzefDGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691703207991-88fdaouh0bfhq64hjotsl79u5dfhkl6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
